@@ -1,0 +1,1 @@
+This is the Marvel Universe social graph from http://exposedata.com/marvel/ reformatted into an adjacency list with each edge separated by tabs (TSV), for easy consumption by projects such as Giraph (http://incubator.apache.org/projects/giraph.html). The dataset was released under CC3, as is this version.
